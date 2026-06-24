@@ -39,4 +39,4 @@
 
 ### Contact & Connect
 * **X (Twitter):** [@maho_0xff](https://x.com/maho_0xff)
-* **GitHub:** [maho-0xff](https://github.com/maho-0xff)
+* **Instagram:** [maho_0xff](https://www.instagram.com/maho_0xff)
