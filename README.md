@@ -9,10 +9,8 @@
     <td width="70%" valign="top">
       <h3>Background</h3>
       <ul>
-        <li><b>Current Focus:</b> Building scalable, type-safe backend systems and optimizing asynchronous microservices.</li>
+        <li><b>Current Focus:</b> Advanced Python, asynchronous design, database optimization, and schema management.</li>
         <li><b>Actively Learning:</b> Deep-diving into AI Engineering and LangChain to integrate LLMs into core backend workflows.</li>
-        <li><b>Open Source:</b> Interested in collaborating on FastAPI backend ecosystems, developer tooling, and automated agents.</li>
-        <li><b>Topics of Interest:</b> Advanced Python, asynchronous design, database optimization, and schema management.</li>
       </ul>
     </td>
     <td width="30%" valign="middle" align="center">
