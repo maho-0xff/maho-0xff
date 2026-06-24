@@ -4,7 +4,7 @@
 
 # Hello, I'm Yao
 
-<table>
+<table width="100%">
   <tr>
     <td width="70%" valign="top">
       <h3>Background</h3>
