@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td width="30%" valign="middle" align="center">
-      <img src="YOUR_IMAGE_URL_HERE.png" width="150" alt="Yao Profile Image" style="border-radius: 50%;" />
+      <img src="./miyao.png" width="150" alt="Yao Profile Image" style="border-radius: 50%;" />
     </td>
   </tr>
 </table>
