@@ -4,20 +4,20 @@
 
 # Hello, I'm Yao
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between; width: 100%;">
-  <!-- Left Column: Text (Takes up 65% of the width) -->
-  <div style="width: 65%;">
-    <h3>Background</h3>
-    <ul>
-      <li><b>Current Focus:</b> Advanced Python, asynchronous design, database optimization, and schema management.</li>
-      <li><b>Actively Learning:</b> Deep-diving into AI Engineering and LangChain to integrate LLMs into core backend workflows.</li>
-    </ul>
-  </div>
-  <!-- Right Column: Image (Takes up 30% of the width) -->
-  <div style="width: 30%; text-align: center;">
-    <img src="./maho.png" width="150" alt="Yao Profile Image" style="border-radius: 50%; display: inline-block;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h3>Background</h3>
+      <ul>
+        <li><b>Current Focus:</b> Advanced Python, asynchronous design, database optimization, and schema management.</li>
+        <li><b>Actively Learning:</b> Deep-diving into AI Engineering and LangChain to integrate LLMs into core backend workflows.</li>
+      </ul>
+    </td>
+    <td width="30%" valign="middle" align="center">
+      <img src="./maho.png" width="150" alt="Yao Profile Image" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
